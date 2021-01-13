@@ -1,0 +1,77 @@
+[33mcommit 940dc592a6fc097a9b861334a940577da2b7a63b[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Darek Strojecki <dstroj@wp.pl>
+Date:   Fri Nov 20 09:20:29 2020 +0100
+
+    Add radians_to_grads function.
+
+[33mcommit be568526d4d5dab6c0368ef6a81f65d67e51dbeb[m
+Author: Darek Strojecki <dstroj@wp.pl>
+Date:   Fri Nov 20 08:38:12 2020 +0100
+
+    Add new tests for get_angle method and add normalize_angle function.
+
+[33mcommit fe0bc687887092b4aa6842bb69be8a7a31bb6850[m
+Author: Darek Strojecki <dstroj@wp.pl>
+Date:   Fri Nov 13 10:24:33 2020 +0100
+
+    Add get_anglr method only witch one assertion.
+
+[33mcommit 4bb75885f60d4695b27990b0ab35ab909a376a4c[m
+Author: Darek Strojecki <dstroj@wp.pl>
+Date:   Fri Nov 13 09:57:12 2020 +0100
+
+    Add get_azimuth mehod and tests for it.
+
+[33mcommit 072a73c48cd6cd14f7696516a54896ad3daf6467[m
+Author: Darek Strojecki <dstroj@wp.pl>
+Date:   Fri Nov 6 09:42:18 2020 +0100
+
+    Add 3d to Point.length() metod and test for it.
+
+[33mcommit 27e73b770464a803e30fe8099f665c2991249dc6[m
+Author: Darek Strojecki <dstroj@wp.pl>
+Date:   Fri Nov 6 09:25:17 2020 +0100
+
+    Add method Point.lenght() and test for it.
+
+[33mcommit 74318ea70a09b4480eb4aa4a75272aef2060dda5[m
+Author: Darek Strojecki <dstroj@wp.pl>
+Date:   Fri Oct 30 12:29:41 2020 +0100
+
+    Add method __str__ to Point class, and test fot it.
+
+[33mcommit 224c28de61b1eadc89118c43cf73d38812bcc2f6[m
+Author: Darek Strojecki <dstroj@wp.pl>
+Date:   Thu Oct 29 20:04:27 2020 +0100
+
+    Add test constructor witch z.
+
+[33mcommit 54a4084019e5b6baaa51542214f607082806e88d[m
+Author: Darek Strojecki <dstroj@wp.pl>
+Date:   Thu Oct 29 17:11:08 2020 +0100
+
+    Add constructor to Point class and one test.
+
+[33mcommit aea45e9183b9aab5a32cda7949e6d7ad88a29ad8[m
+Author: Darek Strojecki <dstroj@wp.pl>
+Date:   Thu Oct 29 17:10:09 2020 +0100
+
+    Add piont file and test_point witch tests.
+
+[33mcommit 9d5d3cd2330b1b27bb2b2d30ea97d8ee5858af83[m
+Author: Darek Strojecki <dstroj@wp.pl>
+Date:   Thu Oct 29 16:58:06 2020 +0100
+
+    Add piont file and test_point witch tests.
+
+[33mcommit 435425028172f85ba1a04b441ce139176574de18[m
+Author: Darek Strojecki <dstroj@wp.pl>
+Date:   Thu Oct 29 16:55:55 2020 +0100
+
+    Add main.py file.
+
+[33mcommit 6502d5064b67fabcd4ba7711ac614e70c1ff4786[m
+Author: Darek Strojecki <dstroj@wp.pl>
+Date:   Thu Oct 29 16:51:13 2020 +0100
+
+    Add requirements.txt and .gitignore
